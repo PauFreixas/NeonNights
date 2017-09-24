@@ -1,0 +1,316 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.152 seconds
+Platform assembly: C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oci\Documents\JocsUnity\NeonNights\NeonNights_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 75.634621 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 45.225605 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.514584 ms (FindLiveObjects: 0.067180 ms CreateObjectMapping: 0.052251 ms MarkObjects: 0.361095 ms  DeleteObjects: 0.032657 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.805723 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.963854 ms (FindLiveObjects: 0.155821 ms CreateObjectMapping: 0.059716 ms MarkObjects: 0.724524 ms  DeleteObjects: 0.022393 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.900895 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.773976 ms (FindLiveObjects: 0.105436 ms CreateObjectMapping: 0.076977 ms MarkObjects: 0.558905 ms  DeleteObjects: 0.031257 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.682558 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.829027 ms (FindLiveObjects: 0.119898 ms CreateObjectMapping: 0.050851 ms MarkObjects: 0.628418 ms  DeleteObjects: 0.028458 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.815053 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 1.085153 ms (FindLiveObjects: 0.108235 ms CreateObjectMapping: 0.067647 ms MarkObjects: 0.879412 ms  DeleteObjects: 0.027525 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.656432 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.759980 ms (FindLiveObjects: 0.097038 ms CreateObjectMapping: 0.047119 ms MarkObjects: 0.597160 ms  DeleteObjects: 0.017728 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.917690 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 1.168195 ms (FindLiveObjects: 0.094239 ms CreateObjectMapping: 0.056916 ms MarkObjects: 0.974118 ms  DeleteObjects: 0.041054 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.029658 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.858885 ms (FindLiveObjects: 0.126896 ms CreateObjectMapping: 0.072778 ms MarkObjects: 0.641947 ms  DeleteObjects: 0.016328 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.831848 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.911603 ms (FindLiveObjects: 0.104969 ms CreateObjectMapping: 0.053651 ms MarkObjects: 0.714726 ms  DeleteObjects: 0.035456 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.038522 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.984382 ms (FindLiveObjects: 0.126430 ms CreateObjectMapping: 0.073712 ms MarkObjects: 0.753915 ms  DeleteObjects: 0.027991 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.689090 ms
+CurrentLvl:1TotalLvls:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.958256 ms (FindLiveObjects: 0.126896 ms CreateObjectMapping: 0.072778 ms MarkObjects: 0.734787 ms  DeleteObjects: 0.022393 ms)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Neon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameOver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NeonTrigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1aa8 -> priority: 1 

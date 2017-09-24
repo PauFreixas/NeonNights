@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: d9850c3e374a57344bf14fb3281bee89
+timeCreated: 1505717142
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StopSign_0
+    21300002: StopSign_1
+    21300004: StopSign_2
+    21300006: StopSign_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StopSign_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 340
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 170, y: -152}
+        - {x: 149, y: -124}
+        - {x: 170, y: -76}
+        - {x: 170, y: -48}
+        - {x: 144, y: -45}
+        - {x: 89, y: -76}
+        - {x: 102, y: -35}
+        - {x: 110, y: -7}
+        - {x: 159, y: -25}
+        - {x: 170, y: -25}
+        - {x: 170, y: 19}
+        - {x: 169, y: 30}
+        - {x: 170, y: 65}
+        - {x: 170, y: 134}
+        - {x: 162, y: 160}
+        - {x: 50, y: 160}
+        - {x: 45, y: 159}
+        - {x: 29, y: 160}
+        - {x: -41, y: 160}
+        - {x: -80, y: 147}
+        - {x: -82, y: 145}
+        - {x: -109, y: 147}
+        - {x: -129, y: 147}
+        - {x: -157, y: 84}
+        - {x: -157, y: -159}
+        - {x: -156, y: -160}
+        - {x: -90, y: -160}
+        - {x: -78, y: -157}
+        - {x: -75, y: -115}
+        - {x: -67, y: -160}
+        - {x: 170, y: -160}
+      - - {x: 158, y: -95}
+        - {x: 158, y: -125}
+        - {x: 160, y: -127}
+        - {x: 170, y: -127}
+        - {x: 170, y: -93}
+        - {x: 160, y: -93}
+    - name: StopSign_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 325
+        width: 340
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: -160}
+        - {x: -163, y: -160}
+        - {x: -163, y: -155}
+        - {x: -165, y: -153}
+        - {x: -170, y: -153}
+      - - {x: 32, y: -140}
+        - {x: 41, y: -160}
+        - {x: 152, y: -160}
+        - {x: 152, y: -146}
+        - {x: 86, y: -103}
+        - {x: 152, y: -100}
+        - {x: 152, y: -64}
+        - {x: 150, y: -63}
+        - {x: 137, y: -35}
+        - {x: 138, y: 115}
+        - {x: 116, y: 160}
+        - {x: -58, y: 160}
+        - {x: -170, y: 138}
+        - {x: -170, y: 81}
+        - {x: -167, y: 70}
+        - {x: -154, y: 53}
+        - {x: -170, y: 23}
+        - {x: -170, y: -89}
+        - {x: -156, y: -160}
+        - {x: 17, y: -160}
+      - - {x: -167, y: -78}
+        - {x: -170, y: -85}
+        - {x: -170, y: -127}
+        - {x: -162, y: -127}
+        - {x: -148, y: -115}
+        - {x: -148, y: -78}
+      - - {x: -170, y: -48}
+        - {x: -170, y: -67}
+        - {x: -165, y: -67}
+        - {x: -163, y: -65}
+        - {x: -163, y: -50}
+        - {x: -165, y: -48}
+      - - {x: 163, y: 70}
+        - {x: 135, y: 57}
+        - {x: 133, y: 55}
+        - {x: 133, y: 40}
+        - {x: 165, y: 8}
+        - {x: 170, y: 8}
+        - {x: 170, y: 72}
+        - {x: 165, y: 72}
+      - - {x: 150, y: 117}
+        - {x: 148, y: 115}
+        - {x: 148, y: 100}
+        - {x: 150, y: 98}
+        - {x: 165, y: 98}
+        - {x: 167, y: 100}
+        - {x: 167, y: 115}
+        - {x: 165, y: 117}
+    - name: StopSign_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 340
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -103}
+        - {x: 134, y: -88}
+        - {x: 170, y: -18}
+        - {x: 170, y: 17}
+        - {x: 160, y: 17}
+        - {x: 158, y: 15}
+        - {x: 152, y: 78}
+        - {x: 115, y: 77}
+        - {x: 113, y: 75}
+        - {x: 132, y: 105}
+        - {x: 132, y: 135}
+        - {x: 130, y: 137}
+        - {x: 99, y: 140}
+        - {x: 81, y: 107}
+        - {x: 89, y: 134}
+        - {x: 87, y: 148}
+        - {x: 115, y: 148}
+        - {x: 117, y: 150}
+        - {x: 117, y: 160}
+        - {x: -157, y: 160}
+        - {x: -157, y: 133}
+        - {x: -155, y: 133}
+        - {x: -157, y: 127}
+        - {x: -157, y: -24}
+        - {x: -142, y: -45}
+        - {x: -157, y: -51}
+        - {x: -157, y: -153}
+        - {x: -155, y: -158}
+        - {x: -141, y: -160}
+        - {x: 42, y: -160}
+        - {x: 42, y: -150}
+        - {x: 146, y: -124}
+      - - {x: 160, y: -43}
+        - {x: 145, y: -43}
+        - {x: 143, y: -45}
+        - {x: 143, y: -75}
+        - {x: 145, y: -77}
+        - {x: 158, y: -105}
+        - {x: 160, y: -107}
+        - {x: 170, y: -107}
+        - {x: 170, y: -71}
+        - {x: 162, y: -45}
+      - - {x: 158, y: 105}
+        - {x: 158, y: 75}
+        - {x: 160, y: 73}
+        - {x: 170, y: 73}
+        - {x: 170, y: 107}
+        - {x: 160, y: 107}
+      - - {x: -155, y: 122}
+        - {x: -157, y: 120}
+        - {x: -157, y: 88}
+        - {x: -138, y: 88}
+        - {x: -138, y: 121}
+        - {x: -140, y: 122}
+      - - {x: 128, y: 160}
+        - {x: 128, y: 133}
+        - {x: 165, y: 133}
+        - {x: 170, y: 142}
+        - {x: 170, y: 160}
+    - name: StopSign_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 340
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122, y: -60}
+        - {x: 103, y: -90}
+        - {x: 103, y: -105}
+        - {x: 116, y: -122}
+        - {x: 149, y: -154}
+        - {x: 169, y: -151}
+        - {x: 170, y: -149}
+        - {x: 170, y: 85}
+        - {x: 135, y: 77}
+        - {x: 133, y: 75}
+        - {x: 149, y: 101}
+        - {x: 165, y: 145}
+        - {x: 152, y: 160}
+        - {x: -170, y: 160}
+        - {x: -170, y: -45}
+        - {x: -123, y: -126}
+        - {x: -101, y: -121}
+        - {x: -88, y: -90}
+        - {x: -105, y: -133}
+        - {x: -122, y: -150}
+        - {x: -122, y: -160}
+        - {x: 63, y: -160}
+        - {x: 92, y: -121}
+        - {x: 107, y: -75}
+      - - {x: -165, y: -73}
+        - {x: -170, y: -73}
+        - {x: -170, y: -122}
+        - {x: -133, y: -122}
+        - {x: -133, y: -88}
+        - {x: -152, y: -86}
+      - - {x: -2, y: 160}
+        - {x: -2, y: 150}
+        - {x: 0, y: 148}
+        - {x: 15, y: 148}
+        - {x: 17, y: 150}
+        - {x: 17, y: 160}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
